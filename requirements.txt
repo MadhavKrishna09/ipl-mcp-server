@@ -1,0 +1,9 @@
+# For Data Loading and Processing
+pandas>=1.3.0
+
+# For the MCP Server
+fastapi
+uvicorn[standard]
+
+# For the Test Script
+requests

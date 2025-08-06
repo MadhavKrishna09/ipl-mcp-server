@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "ipl-cricket-analyzer": {
+      "command": "python",
+      "args": [
+        "/Users/mayank/ipl-mcp-server/ipl_mcp_server.py"
+      ],
+      "env": {}
+    }
+  }
+}
