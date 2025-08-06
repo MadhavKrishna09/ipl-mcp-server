@@ -1,4 +1,4 @@
-# IPL MCP Server – Data Analyst Technical Assessment
+# IPL MCP Server 
 
 **GitHub Repository (all code and IPL data):**  
 [https://github.com/MadhavKrishna09/ipl-mcp-server](https://github.com/MadhavKrishna09/ipl-mcp-server)
@@ -124,4 +124,5 @@ python3 data_loader.py
 
 
 \*\*Thank you for reviewing!\*\*
+
 
